@@ -1,0 +1,85 @@
+[
+  {
+    "id": "1",
+    "title": "Leggings",
+    "vendor_code": "111",
+    "description": "Choco",
+    "price": 100 ,
+    "img": "img/images/W9557R_04067_b1_s1_a1_1_m76.jpg"
+  },
+  {
+    "id": "2",
+    "title": "Sports Bra",
+    "vendor_code": "222",
+    "description": "Black",
+    "price": 90,
+    "img": "img/images/zhenskij-top-rev-it-up-black.jpg"
+  },
+  {
+    "id": "3",
+    "title": "Tights",
+    "vendor_code": "333",
+    "description": "Black",
+    "price": 200,
+    "img": "img/images/zhenskij-top-rev-it-up-white.jpg"
+  },
+  {
+    "id": "4",
+    "title": "Sportswear",
+    "vendor_code": "444",
+    "description": "Brown",
+    "price": 250,
+    "img": "img/images/15221549~espresso_0.jpg"
+  }
+  ,
+  {
+    "id": "5",
+    "title": "Tights",
+    "vendor_code": "555",
+    "description": "Beige",
+    "price": 200,
+    "img": "img/images/706af8ba-d305-461c-b929-d04c21f69f66.jpg"
+  },
+  {
+    "id": "6",
+    "title": "Socks",
+    "vendor_code": "666",
+    "description": "Black",
+    "price": 80,
+    "img": "img/images/23601767~black_0.jpg"
+  },
+  {
+    "id": "7",
+    "title": "Leggings",
+    "vendor_code": "777",
+    "description": "Beige",
+    "price": 100,
+    "img": "img/34578.970.jpg"
+  },
+  {
+    "id": "8",
+    "title": "Sports Bra",
+    "vendor_code": "888",
+    "description": "Black",
+    "price": 200,
+    "img": "img/38233.970.jpg"
+  },
+  {
+    "id": "9",
+    "title": "Sportswear",
+    "vendor_code": "999",
+    "description": "Black",
+    "price": 200,
+    "img": "img/38868.970.jpg"
+  }
+  ,
+  {
+    "id": "10",
+    "title": "Mat",
+    "vendor_code": "101",
+    "description": "Pink",
+    "price": 20,
+    "img": "img/alo-warrior-mat-vs-cnnu.jpg"
+  }
+  
+]
