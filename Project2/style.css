@@ -152,18 +152,11 @@ right: 250px;
 .title{
     position: absolute;
     color: rgb(90, 49, 20);
-    font-size: 100px;
+    font-size: 80px;
     font-weight: 900;
-    text-align: left;
+    text-align: right;
     left: 50px;
     right: 800px;
-
-    margin-top: 80px;    
-    margin-right: 50px;  
-    padding: 7px;
-    max-width: 630px;
-    margin: 3%;
-    border-radius: 30px;
     display: flex;
 }
 
