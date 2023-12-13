@@ -167,6 +167,9 @@ right: 250px;
 .img-fluid {
     display: inline-block;
     position: relative;
+    height: auto;
+    max-width: 100%;
+    padding: 10px;
 }
 
 .img-fluid:hover::after {
