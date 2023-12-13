@@ -154,12 +154,17 @@ right: 250px;
     color: rgb(90, 49, 20);
     font-size: 100px;
     font-weight: 900;
-    text-align: right;
+    text-align: left;
     left: 50px;
     right: 800px;
 
     margin-top: 80px;    
     margin-right: 50px;  
+    padding: 7px;
+    max-width: 630px;
+    margin: 3%;
+    border-radius: 30px;
+    display: flex;
 }
 
 .text-about{
